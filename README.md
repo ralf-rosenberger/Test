@@ -11,11 +11,7 @@ cd Test
 
 ## Nutzung
 
-
-
 ## Lizenz
-
-//Dieses Projekt steht unter der MIT-Lizenz – siehe [LICENSE](LICENSE) für weitere Informationen.
 
 ## Autor
 

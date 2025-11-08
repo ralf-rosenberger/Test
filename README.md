@@ -1,6 +1,7 @@
 # CopyMaster
 
-Ein schnelles Dateien-Kopierprogramm in C++ und den MFC
+Ein schnelles Dateien-Kopierprogramm in C++ und den MFC.
+A fast File Copying Program in C++ using the MFC.
 
 ## Installation
 
